@@ -7,10 +7,10 @@
 <img src="res/img1.gif">
 </h1>
 <h1 align=center>
-<img src="res/img2.gif width=352 height=640">
+<img src="res/img2.gif" width="352" height="640">
 </h1>
 <h1 align=center>
-<img src="res/img3.gif width=352 height=640">
+<img src="res/img3.gif" width="352" height="640">
 </h1>
 
 
