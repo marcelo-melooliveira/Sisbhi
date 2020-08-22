@@ -1,0 +1,1280 @@
+[
+    {
+      "id": 0,
+      "cod": 80,
+      "nome": "Pacajus",
+      "municipio": "Pacajus"
+    },
+    {
+      "id": 1,
+      "cod": 206,
+      "nome": "Monte Belo",
+      "municipio": "Araripe"
+    },
+    {
+      "id": 2,
+      "cod": 213,
+      "nome": "Jenipapo",
+      "municipio": "Meruoca"
+    },
+    {
+      "id": 3,
+      "cod": 216,
+      "nome": "Jatobá II",
+      "municipio": "Ipueiras"
+    },
+    {
+      "id": 4,
+      "cod": 212,
+      "nome": "Figueiredo",
+      "municipio": "Alto Santo"
+    },
+    {
+      "id": 5,
+      "cod": 1119,
+      "nome": "Missi",
+      "municipio": "Miraíma"
+    },
+    {
+      "id": 6,
+      "cod": 1124,
+      "nome": "Maranguapinho",
+      "municipio": "Maranguape"
+    },
+    {
+      "id": 7,
+      "cod": 147,
+      "nome": "João Luís",
+      "municipio": "Araripe"
+    },
+    {
+      "id": 8,
+      "cod": 62,
+      "nome": "Premuoca",
+      "municipio": "Uruoca"
+    },
+    {
+      "id": 9,
+      "cod": 9,
+      "nome": "Orós",
+      "municipio": "Orós"
+    },
+    {
+      "id": 10,
+      "cod": 220,
+      "nome": "Cocó",
+      "municipio": "Fortaleza"
+    },
+    {
+      "id": 11,
+      "cod": 155,
+      "nome": "Olho dÁgua",
+      "municipio": "Várzea Alegre"
+    },
+    {
+      "id": 12,
+      "cod": 109,
+      "nome": "RIACHINHO",
+      "municipio": "Barreira"
+    },
+    {
+      "id": 13,
+      "cod": 88,
+      "nome": "Pacoti",
+      "municipio": "Horizonte"
+    },
+    {
+      "id": 14,
+      "cod": 114,
+      "nome": "SÃO MIGUEL",
+      "municipio": ""
+    },
+    {
+      "id": 15,
+      "cod": 117,
+      "nome": "Riachão",
+      "municipio": "Itaitinga"
+    },
+    {
+      "id": 16,
+      "cod": 172,
+      "nome": "Flor do Campo",
+      "municipio": "Novo Oriente"
+    },
+    {
+      "id": 17,
+      "cod": 3,
+      "nome": "Caxitoré",
+      "municipio": "Umirim"
+    },
+    {
+      "id": 18,
+      "cod": 133,
+      "nome": "Colina",
+      "municipio": "Quiterianópolis"
+    },
+    {
+      "id": 19,
+      "cod": 210,
+      "nome": "Gameleira",
+      "municipio": "Itapipoca"
+    },
+    {
+      "id": 20,
+      "cod": 54,
+      "nome": "Realejo",
+      "municipio": "Crateús"
+    },
+    {
+      "id": 21,
+      "cod": 141,
+      "nome": "São Domingos",
+      "municipio": "Caridade"
+    },
+    {
+      "id": 22,
+      "cod": 95,
+      "nome": "Gavião",
+      "municipio": "Pacatuba"
+    },
+    {
+      "id": 23,
+      "cod": 194,
+      "nome": "Castanhão",
+      "municipio": "Alto Santo"
+    },
+    {
+      "id": 24,
+      "cod": 72,
+      "nome": "Forquilha II",
+      "municipio": "Tauá"
+    },
+    {
+      "id": 25,
+      "cod": 178,
+      "nome": "Desterro",
+      "municipio": "Caridade"
+    },
+    {
+      "id": 26,
+      "cod": 97,
+      "nome": "Castro",
+      "municipio": "Itapiúna"
+    },
+    {
+      "id": 27,
+      "cod": 145,
+      "nome": "GRANJEIRO",
+      "municipio": ""
+    },
+    {
+      "id": 28,
+      "cod": 91,
+      "nome": "FAZENDA NORMAL",
+      "municipio": ""
+    },
+    {
+      "id": 29,
+      "cod": 2494,
+      "nome": "Iracema",
+      "municipio": "Tabuleiro do Norte"
+    },
+    {
+      "id": 30,
+      "cod": 101,
+      "nome": "LAGOA DAS POMBAS",
+      "municipio": ""
+    },
+    {
+      "id": 31,
+      "cod": 120,
+      "nome": "MATA FRESCA",
+      "municipio": ""
+    },
+    {
+      "id": 32,
+      "cod": 2495,
+      "nome": "Milhão",
+      "municipio": "Tabuleiro do Norte"
+    },
+    {
+      "id": 33,
+      "cod": 87,
+      "nome": "NOVAS VIDAS",
+      "municipio": ""
+    },
+    {
+      "id": 34,
+      "cod": 140,
+      "nome": "NOVO",
+      "municipio": ""
+    },
+    {
+      "id": 35,
+      "cod": 192,
+      "nome": "Pesqueiro",
+      "municipio": "Capistrano"
+    },
+    {
+      "id": 36,
+      "cod": 86,
+      "nome": "Riacho Verde",
+      "municipio": ""
+    },
+    {
+      "id": 37,
+      "cod": 68,
+      "nome": "Quincoé",
+      "municipio": "Acopiara"
+    },
+    {
+      "id": 38,
+      "cod": 197,
+      "nome": "Curral Velho",
+      "municipio": "Morada Nova"
+    },
+    {
+      "id": 39,
+      "cod": 181,
+      "nome": "Rosário",
+      "municipio": "Lavras da Mangabeira"
+    },
+    {
+      "id": 40,
+      "cod": 233,
+      "nome": "Santo Antônio",
+      "municipio": "Iracema"
+    },
+    {
+      "id": 41,
+      "cod": 29,
+      "nome": "VELAME",
+      "municipio": ""
+    },
+    {
+      "id": 42,
+      "cod": 111,
+      "nome": "Tigre",
+      "municipio": "Solonópole"
+    },
+    {
+      "id": 43,
+      "cod": 191,
+      "nome": "Umari",
+      "municipio": "Madalena"
+    },
+    {
+      "id": 44,
+      "cod": 65,
+      "nome": "Carão",
+      "municipio": "Tamboril"
+    },
+    {
+      "id": 45,
+      "cod": 77,
+      "nome": "Frios",
+      "municipio": "Umirim"
+    },
+    {
+      "id": 46,
+      "cod": 81,
+      "nome": "São Vicente",
+      "municipio": "Santana do Acaraú"
+    },
+    {
+      "id": 47,
+      "cod": 84,
+      "nome": "Cipoada",
+      "municipio": "Morada Nova"
+    },
+    {
+      "id": 48,
+      "cod": 28,
+      "nome": "Joaquim Távora",
+      "municipio": "Jaguaribe"
+    },
+    {
+      "id": 49,
+      "cod": 2,
+      "nome": "Banabuiú",
+      "municipio": "Banabuiú"
+    },
+    {
+      "id": 50,
+      "cod": 4,
+      "nome": "Cedro",
+      "municipio": "Quixadá"
+    },
+    {
+      "id": 51,
+      "cod": 135,
+      "nome": "Jatobá",
+      "municipio": "Milhã"
+    },
+    {
+      "id": 52,
+      "cod": 50,
+      "nome": "Santo Antônio de Aracatiaçu",
+      "municipio": "Sobral"
+    },
+    {
+      "id": 53,
+      "cod": 71,
+      "nome": "Pacoti/Riachão",
+      "municipio": ""
+    },
+    {
+      "id": 54,
+      "cod": 99,
+      "nome": "Serafim Dias",
+      "municipio": "Mombaça"
+    },
+    {
+      "id": 55,
+      "cod": 73,
+      "nome": "Pinga",
+      "municipio": "Ubajara"
+    },
+    {
+      "id": 56,
+      "cod": 19,
+      "nome": "Santo Antônio de Russas",
+      "municipio": "Russas"
+    },
+    {
+      "id": 57,
+      "cod": 118,
+      "nome": "Estrema",
+      "municipio": "Lavras da Mangabeira"
+    },
+    {
+      "id": 58,
+      "cod": 167,
+      "nome": "Pirabibu",
+      "municipio": "Quixeramobim"
+    },
+    {
+      "id": 59,
+      "cod": 186,
+      "nome": "Riacho da Serra",
+      "municipio": "Alto Santo"
+    },
+    {
+      "id": 60,
+      "cod": 23,
+      "nome": "Thomás Osterne",
+      "municipio": "Crato"
+    },
+    {
+      "id": 61,
+      "cod": 20,
+      "nome": "São Mateus",
+      "municipio": "Canindé"
+    },
+    {
+      "id": 62,
+      "cod": 14,
+      "nome": "Prazeres",
+      "municipio": "Barro"
+    },
+    {
+      "id": 63,
+      "cod": 41,
+      "nome": "CALDEIRÃO",
+      "municipio": ""
+    },
+    {
+      "id": 64,
+      "cod": 136,
+      "nome": "BUENOS AIRES",
+      "municipio": ""
+    },
+    {
+      "id": 65,
+      "cod": 46,
+      "nome": "CAIO PRADO",
+      "municipio": ""
+    },
+    {
+      "id": 66,
+      "cod": 154,
+      "nome": "CAMAROA",
+      "municipio": ""
+    },
+    {
+      "id": 67,
+      "cod": 33,
+      "nome": "Capitão Mor",
+      "municipio": "Pedra Branca"
+    },
+    {
+      "id": 68,
+      "cod": 43,
+      "nome": "Caracas",
+      "municipio": "Canindé"
+    },
+    {
+      "id": 69,
+      "cod": 123,
+      "nome": "CHAVAL",
+      "municipio": ""
+    },
+    {
+      "id": 70,
+      "cod": 137,
+      "nome": "CORIOLANO DE SOUZA",
+      "municipio": ""
+    },
+    {
+      "id": 71,
+      "cod": 158,
+      "nome": "Cauhipe",
+      "municipio": "Caucaia"
+    },
+    {
+      "id": 72,
+      "cod": 134,
+      "nome": "Do Coronel",
+      "municipio": "Antonina do Norte"
+    },
+    {
+      "id": 73,
+      "cod": 215,
+      "nome": "Diamantino II",
+      "municipio": "Marco"
+    },
+    {
+      "id": 74,
+      "cod": 60,
+      "nome": "Diamante",
+      "municipio": "Coreaú"
+    },
+    {
+      "id": 75,
+      "cod": 2496,
+      "nome": "Escorredor",
+      "municipio": "Tabuleiro do Norte"
+    },
+    {
+      "id": 76,
+      "cod": 35,
+      "nome": "Espírito Santo",
+      "municipio": ""
+    },
+    {
+      "id": 77,
+      "cod": 241,
+      "nome": "Flamengo",
+      "municipio": ""
+    },
+    {
+      "id": 78,
+      "cod": 98,
+      "nome": "FORMOSA",
+      "municipio": ""
+    },
+    {
+      "id": 79,
+      "cod": 150,
+      "nome": "GONZAGA MOTA",
+      "municipio": ""
+    },
+    {
+      "id": 80,
+      "cod": 42,
+      "nome": "Hipólito",
+      "municipio": ""
+    },
+    {
+      "id": 81,
+      "cod": 100,
+      "nome": "JANGURUSSU",
+      "municipio": ""
+    },
+    {
+      "id": 82,
+      "cod": 131,
+      "nome": "JOSÉ DE ALENCAR",
+      "municipio": ""
+    },
+    {
+      "id": 83,
+      "cod": 237,
+      "nome": "Lagoa do Catu",
+      "municipio": ""
+    },
+    {
+      "id": 84,
+      "cod": 139,
+      "nome": "LAGOA DO PIANCÓ",
+      "municipio": ""
+    },
+    {
+      "id": 85,
+      "cod": 164,
+      "nome": "Madeiro",
+      "municipio": "Pereiro"
+    },
+    {
+      "id": 86,
+      "cod": 235,
+      "nome": "Malcozinhado",
+      "municipio": "Cascavel"
+    },
+    {
+      "id": 87,
+      "cod": 199,
+      "nome": "Macacos",
+      "municipio": "Ibaretama"
+    },
+    {
+      "id": 88,
+      "cod": 37,
+      "nome": "MARACAJÁ",
+      "municipio": ""
+    },
+    {
+      "id": 89,
+      "cod": 103,
+      "nome": "MONS. JOSÉ CÂNDIDO",
+      "municipio": ""
+    },
+    {
+      "id": 90,
+      "cod": 144,
+      "nome": "MONTE SOMBRIO",
+      "municipio": ""
+    },
+    {
+      "id": 91,
+      "cod": 102,
+      "nome": "MUCAMBINHO",
+      "municipio": ""
+    },
+    {
+      "id": 92,
+      "cod": 151,
+      "nome": "Mucambo",
+      "municipio": ""
+    },
+    {
+      "id": 93,
+      "cod": 156,
+      "nome": "MUCUIM",
+      "municipio": ""
+    },
+    {
+      "id": 94,
+      "cod": 104,
+      "nome": "MULUNGU",
+      "municipio": ""
+    },
+    {
+      "id": 95,
+      "cod": 48,
+      "nome": "PAPARA",
+      "municipio": ""
+    },
+    {
+      "id": 96,
+      "cod": 105,
+      "nome": "PARAZINHO",
+      "municipio": ""
+    },
+    {
+      "id": 97,
+      "cod": 56,
+      "nome": "Patos",
+      "municipio": "Sobral"
+    },
+    {
+      "id": 98,
+      "cod": 106,
+      "nome": "POÇO SALGADO",
+      "municipio": ""
+    },
+    {
+      "id": 99,
+      "cod": 13,
+      "nome": "Pompeu Sobrinho",
+      "municipio": "Choró"
+    },
+    {
+      "id": 100,
+      "cod": 67,
+      "nome": "Poço do Barro",
+      "municipio": "Morada Nova"
+    },
+    {
+      "id": 101,
+      "cod": 76,
+      "nome": "QUIXARA",
+      "municipio": ""
+    },
+    {
+      "id": 102,
+      "cod": 107,
+      "nome": "RAJADA",
+      "municipio": ""
+    },
+    {
+      "id": 103,
+      "cod": 108,
+      "nome": "RIACHÃO DNOCS",
+      "municipio": ""
+    },
+    {
+      "id": 104,
+      "cod": 38,
+      "nome": "RÔMULO",
+      "municipio": ""
+    },
+    {
+      "id": 105,
+      "cod": 153,
+      "nome": "SACO DO BELÉM",
+      "municipio": ""
+    },
+    {
+      "id": 106,
+      "cod": 18,
+      "nome": "Salão",
+      "municipio": "Canindé"
+    },
+    {
+      "id": 107,
+      "cod": 55,
+      "nome": "Santa Maria de Aracatiaçu",
+      "municipio": "Sobral"
+    },
+    {
+      "id": 108,
+      "cod": 113,
+      "nome": "SÃO FRANCISCO",
+      "municipio": ""
+    },
+    {
+      "id": 109,
+      "cod": 57,
+      "nome": "SÃO GABRIEL",
+      "municipio": ""
+    },
+    {
+      "id": 110,
+      "cod": 176,
+      "nome": "SÃO JOAQUIM",
+      "municipio": ""
+    },
+    {
+      "id": 111,
+      "cod": 115,
+      "nome": "SEBASTIÃO DE ABREU",
+      "municipio": ""
+    },
+    {
+      "id": 112,
+      "cod": 138,
+      "nome": "SENADOR SÁ",
+      "municipio": ""
+    },
+    {
+      "id": 113,
+      "cod": 242,
+      "nome": "SERROTA",
+      "municipio": ""
+    },
+    {
+      "id": 114,
+      "cod": 85,
+      "nome": "São José II",
+      "municipio": "Piquet Carneiro"
+    },
+    {
+      "id": 115,
+      "cod": 146,
+      "nome": "TABORNA",
+      "municipio": ""
+    },
+    {
+      "id": 116,
+      "cod": 128,
+      "nome": "TANQUES",
+      "municipio": ""
+    },
+    {
+      "id": 117,
+      "cod": 142,
+      "nome": "TEIMOSO",
+      "municipio": ""
+    },
+    {
+      "id": 118,
+      "cod": 238,
+      "nome": "THOMAZ ACYOLI",
+      "municipio": ""
+    },
+    {
+      "id": 119,
+      "cod": 40,
+      "nome": "Trapiá I",
+      "municipio": "Caridade"
+    },
+    {
+      "id": 120,
+      "cod": 75,
+      "nome": "Tatajuba",
+      "municipio": "Icó"
+    },
+    {
+      "id": 121,
+      "cod": 96,
+      "nome": "Trapiá II",
+      "municipio": "Pedra Branca"
+    },
+    {
+      "id": 122,
+      "cod": 122,
+      "nome": "Trussu",
+      "municipio": "Iguatu"
+    },
+    {
+      "id": 123,
+      "cod": 74,
+      "nome": "Canafístula",
+      "municipio": "Iracema"
+    },
+    {
+      "id": 124,
+      "cod": 168,
+      "nome": "Muquém",
+      "municipio": "Cariús"
+    },
+    {
+      "id": 125,
+      "cod": 36,
+      "nome": "Gomes",
+      "municipio": "Mauriti"
+    },
+    {
+      "id": 126,
+      "cod": 27,
+      "nome": "Poço da Pedra",
+      "municipio": "Campos Sales"
+    },
+    {
+      "id": 127,
+      "cod": 15,
+      "nome": "Quixabinha",
+      "municipio": "Mauriti"
+    },
+    {
+      "id": 128,
+      "cod": 26,
+      "nome": "Nova Floresta",
+      "municipio": "Jaguaribe"
+    },
+    {
+      "id": 129,
+      "cod": 64,
+      "nome": "Bonito",
+      "municipio": "Ipú"
+    },
+    {
+      "id": 130,
+      "cod": 25,
+      "nome": "Várzea do Boi",
+      "municipio": "Tauá"
+    },
+    {
+      "id": 131,
+      "cod": 1120,
+      "nome": "Jenipapeiro II",
+      "municipio": "Baixio"
+    },
+    {
+      "id": 132,
+      "cod": 30,
+      "nome": "Ema",
+      "municipio": "Iracema"
+    },
+    {
+      "id": 133,
+      "cod": 58,
+      "nome": "Tucunduba",
+      "municipio": "Senador Sá"
+    },
+    {
+      "id": 134,
+      "cod": 162,
+      "nome": "Ubaldinho",
+      "municipio": "Cedro"
+    },
+    {
+      "id": 135,
+      "cod": 32,
+      "nome": "Adauto Bezerra",
+      "municipio": "Pereiro"
+    },
+    {
+      "id": 136,
+      "cod": 170,
+      "nome": "Cachoeira",
+      "municipio": "Aurora"
+    },
+    {
+      "id": 137,
+      "cod": 45,
+      "nome": "Amanary",
+      "municipio": "Maranguape"
+    },
+    {
+      "id": 138,
+      "cod": 112,
+      "nome": "Angicos",
+      "municipio": "Coreaú"
+    },
+    {
+      "id": 139,
+      "cod": 234,
+      "nome": "Aracoiaba",
+      "municipio": "Aracoiaba"
+    },
+    {
+      "id": 140,
+      "cod": 127,
+      "nome": "Canoas",
+      "municipio": "Assaré"
+    },
+    {
+      "id": 141,
+      "cod": 201,
+      "nome": "Mamoeiro",
+      "municipio": "ANTONINA DO NORTE"
+    },
+    {
+      "id": 142,
+      "cod": 31,
+      "nome": "Araras",
+      "municipio": "Varjota"
+    },
+    {
+      "id": 143,
+      "cod": 240,
+      "nome": "Arneiroz II",
+      "municipio": "Arneiroz"
+    },
+    {
+      "id": 144,
+      "cod": 83,
+      "nome": "Arrebita",
+      "municipio": "Forquilha"
+    },
+    {
+      "id": 145,
+      "cod": 47,
+      "nome": "Atalho",
+      "municipio": "Brejo Santo"
+    },
+    {
+      "id": 146,
+      "cod": 49,
+      "nome": "Ayres de Sousa",
+      "municipio": "Sobral"
+    },
+    {
+      "id": 147,
+      "cod": 163,
+      "nome": "Barra Velha",
+      "municipio": "Independência"
+    },
+    {
+      "id": 148,
+      "cod": 202,
+      "nome": "Barragem do Batalhão",
+      "municipio": "Crateús"
+    },
+    {
+      "id": 149,
+      "cod": 173,
+      "nome": "Batente",
+      "municipio": "Barreira"
+    },
+    {
+      "id": 150,
+      "cod": 177,
+      "nome": "Benguê",
+      "municipio": "Aiuaba"
+    },
+    {
+      "id": 151,
+      "cod": 125,
+      "nome": "Broco",
+      "municipio": "Tauá"
+    },
+    {
+      "id": 152,
+      "cod": 217,
+      "nome": "Caldeirões",
+      "municipio": "Saboeiro"
+    },
+    {
+      "id": 153,
+      "cod": 236,
+      "nome": "Carmina",
+      "municipio": "Catunda"
+    },
+    {
+      "id": 154,
+      "cod": 53,
+      "nome": "Carnaubal",
+      "municipio": "Crateús"
+    },
+    {
+      "id": 155,
+      "cod": 223,
+      "nome": "Catucinzenta",
+      "municipio": "Aquiraz"
+    },
+    {
+      "id": 156,
+      "cod": 34,
+      "nome": "Cupim",
+      "municipio": "Independência"
+    },
+    {
+      "id": 157,
+      "cod": 6,
+      "nome": "Favelas",
+      "municipio": "Tauá"
+    },
+    {
+      "id": 158,
+      "cod": 8,
+      "nome": "Manoel Balbino",
+      "municipio": "Juazeiro do Norte"
+    },
+    {
+      "id": 159,
+      "cod": 119,
+      "nome": "Fogareiro",
+      "municipio": "Quixeramobim"
+    },
+    {
+      "id": 160,
+      "cod": 51,
+      "nome": "Forquilha",
+      "municipio": "Forquilha"
+    },
+    {
+      "id": 161,
+      "cod": 169,
+      "nome": "Gangorra",
+      "municipio": "Granja"
+    },
+    {
+      "id": 162,
+      "cod": 121,
+      "nome": "Jerimum",
+      "municipio": "Irauçuba"
+    },
+    {
+      "id": 163,
+      "cod": 189,
+      "nome": "Junco",
+      "municipio": "Granjeiro"
+    },
+    {
+      "id": 164,
+      "cod": 69,
+      "nome": "Jaburu I",
+      "municipio": "Ubajara"
+    },
+    {
+      "id": 165,
+      "cod": 52,
+      "nome": "Jaburu II",
+      "municipio": "Independência"
+    },
+    {
+      "id": 166,
+      "cod": 171,
+      "nome": "Jenipapeiro",
+      "municipio": "Deputado Irapuan Pinheiro"
+    },
+    {
+      "id": 167,
+      "cod": 78,
+      "nome": "Acarape do Meio",
+      "municipio": "Redenção"
+    },
+    {
+      "id": 168,
+      "cod": 1,
+      "nome": "Acaraú Mirim",
+      "municipio": "Massapê"
+    },
+    {
+      "id": 169,
+      "cod": 63,
+      "nome": "Lima Campos",
+      "municipio": "Icó"
+    },
+    {
+      "id": 170,
+      "cod": 5,
+      "nome": "Edson Queiroz",
+      "municipio": "Santa Quitéria"
+    },
+    {
+      "id": 171,
+      "cod": 44,
+      "nome": "Escuridão",
+      "municipio": "Canindé"
+    },
+    {
+      "id": 172,
+      "cod": 208,
+      "nome": "Facundo",
+      "municipio": "Parambu"
+    },
+    {
+      "id": 173,
+      "cod": 239,
+      "nome": "Faé",
+      "municipio": "Quixelô"
+    },
+    {
+      "id": 174,
+      "cod": 59,
+      "nome": "Farias de Sousa",
+      "municipio": "Nova Russas"
+    },
+    {
+      "id": 175,
+      "cod": 17,
+      "nome": "Riacho do Sangue",
+      "municipio": "Solonópole"
+    },
+    {
+      "id": 176,
+      "cod": 7,
+      "nome": "General Sampaio",
+      "municipio": "General Sampaio"
+    },
+    {
+      "id": 177,
+      "cod": 1123,
+      "nome": "Gerardo Atimbone",
+      "municipio": "Sobral"
+    },
+    {
+      "id": 178,
+      "cod": 205,
+      "nome": "Germinal",
+      "municipio": "Palmácia"
+    },
+    {
+      "id": 179,
+      "cod": 211,
+      "nome": "Itapajé",
+      "municipio": "Itapajé"
+    },
+    {
+      "id": 180,
+      "cod": 244,
+      "nome": "Itapebussu",
+      "municipio": "Maranguape"
+    },
+    {
+      "id": 181,
+      "cod": 180,
+      "nome": "Itaúna",
+      "municipio": "Granja"
+    },
+    {
+      "id": 182,
+      "cod": 126,
+      "nome": "Martinópole",
+      "municipio": "Martinópole"
+    },
+    {
+      "id": 183,
+      "cod": 161,
+      "nome": "Mons. Tabosa",
+      "municipio": "Quixeramobim"
+    },
+    {
+      "id": 184,
+      "cod": 61,
+      "nome": "Mundaú",
+      "municipio": "Uruburetama"
+    },
+    {
+      "id": 185,
+      "cod": 89,
+      "nome": "Parambu",
+      "municipio": "Parambu"
+    },
+    {
+      "id": 186,
+      "cod": 10,
+      "nome": "Patu",
+      "municipio": "Senador Pompeu"
+    },
+    {
+      "id": 187,
+      "cod": 148,
+      "nome": "Pau Preto",
+      "municipio": "Potengi"
+    },
+    {
+      "id": 188,
+      "cod": 11,
+      "nome": "Pedras Brancas",
+      "municipio": "Quixadá"
+    },
+    {
+      "id": 189,
+      "cod": 179,
+      "nome": "Penedo",
+      "municipio": "Maranguape"
+    },
+    {
+      "id": 190,
+      "cod": 12,
+      "nome": "Pentecoste",
+      "municipio": "Pentecoste"
+    },
+    {
+      "id": 191,
+      "cod": 90,
+      "nome": "Poço Verde",
+      "municipio": "Itapipoca"
+    },
+    {
+      "id": 192,
+      "cod": 82,
+      "nome": "Potiretama",
+      "municipio": "Potiretama"
+    },
+    {
+      "id": 193,
+      "cod": 79,
+      "nome": "Quandú",
+      "municipio": "Itapipoca"
+    },
+    {
+      "id": 194,
+      "cod": 16,
+      "nome": "Quixeramobim",
+      "municipio": "Quixeramobim"
+    },
+    {
+      "id": 195,
+      "cod": 174,
+      "nome": "Rivaldo de Carvalho",
+      "municipio": "Catarina"
+    },
+    {
+      "id": 196,
+      "cod": 21,
+      "nome": "S. Pedro Timbaúba",
+      "municipio": "Miraíma"
+    },
+    {
+      "id": 197,
+      "cod": 166,
+      "nome": "Santa Maria",
+      "municipio": "Ererê"
+    },
+    {
+      "id": 198,
+      "cod": 190,
+      "nome": "São Domingos II",
+      "municipio": "Caririaçu"
+    },
+    {
+      "id": 199,
+      "cod": 39,
+      "nome": "São José I",
+      "municipio": "Boa Viagem"
+    },
+    {
+      "id": 200,
+      "cod": 185,
+      "nome": "São José III",
+      "municipio": "Ipaporanga"
+    },
+    {
+      "id": 201,
+      "cod": 159,
+      "nome": "Sitios Novos",
+      "municipio": "Caucaia"
+    },
+    {
+      "id": 202,
+      "cod": 22,
+      "nome": "Sobral",
+      "municipio": "Sobral"
+    },
+    {
+      "id": 203,
+      "cod": 160,
+      "nome": "Sousa",
+      "municipio": "Canindé"
+    },
+    {
+      "id": 204,
+      "cod": 66,
+      "nome": "Sucesso",
+      "municipio": "Tamboril"
+    },
+    {
+      "id": 205,
+      "cod": 254,
+      "nome": "Taquara",
+      "municipio": "Cariré"
+    },
+    {
+      "id": 206,
+      "cod": 92,
+      "nome": "Tejuçuoca",
+      "municipio": "Tejuçuoca"
+    },
+    {
+      "id": 207,
+      "cod": 132,
+      "nome": "Tijuquinha",
+      "municipio": "Baturité"
+    },
+    {
+      "id": 208,
+      "cod": 129,
+      "nome": "Trapiá III",
+      "municipio": "Coreaú"
+    },
+    {
+      "id": 209,
+      "cod": 24,
+      "nome": "Trici",
+      "municipio": "Tauá"
+    },
+    {
+      "id": 210,
+      "cod": 110,
+      "nome": "Valério",
+      "municipio": "Altaneira"
+    },
+    {
+      "id": 211,
+      "cod": 70,
+      "nome": "Várzea da Volta",
+      "municipio": "Moraújo"
+    },
+    {
+      "id": 212,
+      "cod": 130,
+      "nome": "Vieirão",
+      "municipio": "Boa Viagem"
+    }
+  ]
